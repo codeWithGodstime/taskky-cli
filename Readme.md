@@ -1,6 +1,6 @@
 # Taskky CLI
 
-Taskky is an CLI application used to track and manage your tasks. With Tasky you can track what you need to do, what you have done, and what you are currently working on.
+Taskky is an CLI application used to track and manage your tasks. With Tasky you can track what you need to do, what you have done, and what you are currently working on. This is a solution to a challenge from [Roadmap.sh](https://roadmap.sh/projects/task-tracker)
 
 # Requirements
 The application should run from the command line, accept user actions and inputs as arguments, and store the tasks in a JSON file. The user should be able to:
